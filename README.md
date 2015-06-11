@@ -1,4 +1,4 @@
-## ACBiMA: Advanced Chinese Bi-Character Word Morphological Analyzer <br>ACBiMA: 漢語二字詞構詞分類器暨語料庫
+## ACBiMA: Advanced Chinese Bi-Character Word Morphological Analyzer
 
 ### ACBiMA Corpus 1.0
 
