@@ -1,5 +1,5 @@
 ## ACBiMA: Advanced Chinese Bi-Character Word Morphological Analyzer
-## ACBiMA: 進階漢語二字詞構詞分析器
+ACBiMA: 進階漢語二字詞構詞分析器
 
 ### ACBiMA Corpus 1.0
 
