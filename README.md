@@ -1,5 +1,7 @@
 ## ACBiMA: Advanced Chinese Bi-Character Word Morphological Analyzer
 
+[this paper](http://www.cs.cmu.edu/~yvchen/doc/SIGHAN15_ACBiMA.pdf)
+
 ### ACBiMA Corpus 1.0
 
 #### Initial Set (~3k words)
