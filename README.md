@@ -4,7 +4,7 @@
 
 #### Initial Set (~3k words)
 
-#### Whole Set (~11k words)
+#### Whole Set (~11k words, including the Initial Set)
 
 ### ACBiMA Tool
 
