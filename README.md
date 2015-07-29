@@ -1,7 +1,5 @@
 ## ACBiMA: Advanced Chinese Bi-Character Word Morphological Analyzer
 
-[this paper](http://www.cs.cmu.edu/~yvchen/doc/SIGHAN15_ACBiMA.pdf)
-
 ### ACBiMA Corpus 1.0
 
 #### Initial Set (~3k words)
@@ -12,7 +10,8 @@
 
 ### How to cite?
 
-Ting-Hao K. Huang, Yun-Nung Chen, Lingpeng Kong. (2015). ACBiMA: Advanced Chinese Bi-Character Word Morphological Analyzer. The 8th SIGHAN Workshop on Chinese Language Processing (SIGHAN 2015), July 30-31, 2015, Beijing, China.
+Ting-Hao K. Huang, Yun-Nung Chen, Lingpeng Kong. (2015). ACBiMA: Advanced Chinese Bi-Character Word Morphological Analyzer. The 8th SIGHAN Workshop on Chinese Language Processing (SIGHAN 2015), July 30-31, 2015, Beijing, China. 
+[[PDF]](http://www.cs.cmu.edu/~yvchen/doc/SIGHAN15_ACBiMA.pdf)
 
 ```
 @CONFERENCE {acbima2015,
