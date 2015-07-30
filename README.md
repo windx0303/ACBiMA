@@ -1,6 +1,6 @@
 ## ACBiMA: Advanced Chinese Bi-Character Word Morphological Analyzer
 
-Data set and tools release of the following paper:
+This is the Github repository for the data and tool release of the following paper:
 
 Ting-Hao K. Huang, Yun-Nung Chen, Lingpeng Kong. (2015). ACBiMA: Advanced Chinese Bi-Character Word Morphological Analyzer. The 8th SIGHAN Workshop on Chinese Language Processing (SIGHAN 2015), July 30-31, 2015, Beijing, China. 
 [[PDF]](http://www.cs.cmu.edu/~yvchen/doc/SIGHAN15_ACBiMA.pdf)
@@ -35,6 +35,9 @@ Ting-Hao K. Huang, Yun-Nung Chen, Lingpeng Kong. (2015). ACBiMA: Advanced Chines
 ### ACBiMA Tool
 
 Coming soon!
+
+For practical uses, we are porting our code from [Weka](http://www.cs.waikato.ac.nz/ml/weka/) to [Java LibLinear](http://liblinear.bwaldvogel.de/).
+The expected release date will be August 2015.
 
 ### How to cite?
 
