@@ -73,4 +73,4 @@ Date | Updates
 
 ### Contact
 
-For any questions and comments, please send email to [windx0303@gamil.com](windx0303@gamil.com).
+For any questions and comments, please send email to [windx0303@gamil.com](windx0303@gamil.com) to Kenneth Huang.
