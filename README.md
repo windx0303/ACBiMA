@@ -2,6 +2,21 @@
 
 ### ACBiMA Corpus 1.0
 
+
+#### Morphological Types for Compound Word
+
+Type | char_1 | char_2
+-----|--------|--------
+a-head | Modifier | Adjectival_Head
+n-head | Modifier | Nominal_Head
+v-head | Modifier | Verbal_Head
+nsubj | Nominal_Subject | Predicate(Verb)
+vobj | Predicate(Verb) | Object
+vprt | Predicate(Verb) | Particle
+conj | Two characters play coordinate roles in a word.
+els | Else
+
+
 #### Initial Set (~3k words, annotated with difficulty level)
 
 ```
