@@ -12,24 +12,16 @@ import feature.extractor.singlechar.WordIdFeatureExtractor;
 public class Acbima {
 	
 	//static private int;
-	
-	
-	private int id;
-	//private int difficulty;
-	
-	public int getId() {
-		return id;
-	}
-
-	public void setId(int id) {
-		this.id = id;
-	}
+	private static Hashtable<String, Integer> charIdHash = new Hashtable<String, Integer>();
+	//private static Hashtable<String, Acbima> acbimaIdHash = new Hashtable<String, Acbima>();
 	
 	private String word;
 	private String type;
 	
 	private String char1;
 	private String char2;
+	
+	private int id;
 	
 	public Acbima(String word, String type){
 		
@@ -38,7 +30,6 @@ public class Acbima {
 			this.type = type;
 			this.char1 = word.substring(0,1);
 			this.char2 = word.substring(1);
-			
 		}else{
 			System.out.println("Input error:+\t("+word+", "+type+")");
 		}
@@ -47,17 +38,24 @@ public class Acbima {
 		//this.id = count;
 	}
 	
-	private void setCharDict(String nowChar){
-		// TODO Auto-generated method stub
-		
+	
+
+	public int getId() {
+		return id;
 	}
+
+
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+
 
 	public String getWord() {
 		return word;
 	}
-	public void setWord(String word) {
-		this.word = word;
-	}
+	
 	public String getType() {
 		return type;
 	}
@@ -67,10 +65,6 @@ public class Acbima {
 
 	public String getChar1() {
 		return char1;
-	}
-
-	public void setChar1(String char1) {
-		this.char1 = char1;
 	}
 
 	public String getChar2() {
