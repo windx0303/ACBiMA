@@ -2,7 +2,7 @@
 
 ### ACBiMA Corpus 1.0
 
-#### Initial Set (~3k words)
+#### Initial Set (~3k words, annotated with difficulty level)
 
 ```
 /ACBiMA/data/ACBiMA_Corpus_2013_initial_set/ACBiMA_Corpus_1.0.tsv
