@@ -13,8 +13,8 @@
 |nsubj | Nominal_Subject | Predicate(Verb)|
 |vobj | Predicate(Verb) | Object|
 |vprt | Predicate(Verb) | Particle|
-|conj | Two characters play coordinate roles in a word.|
-|els | Else|
+|conj | Two characters play coordinate roles in a word.||
+|els | Else||
 
 
 #### Initial Set (~3k words, annotated with difficulty level)
