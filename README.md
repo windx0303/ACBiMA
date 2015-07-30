@@ -4,11 +4,15 @@
 
 #### Initial Set (~3k words)
 
+```
 /ACBiMA/data/ACBiMA_Corpus_2013_initial_set/ACBiMA_Corpus_1.0.tsv
+```
 
 #### Whole Set (~11k words, including the Initial Set)
 
+```
 /ACBiMA/output/acbima-corpus-1.0-whole-set-11351.json
+```
 
 ### ACBiMA Tool
 
