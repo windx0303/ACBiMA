@@ -2,7 +2,6 @@
 
 ### ACBiMA Corpus 1.0
 
-
 #### Morphological Types for Compound Word
 
 |Type | char_1 | char_2|
@@ -15,7 +14,6 @@
 |vprt | Predicate(Verb) | Particle|
 |conj | Two characters play coordinate roles in a word.||
 |els | Else||
-
 
 #### Initial Set (~3k words, annotated with difficulty level)
 
@@ -60,7 +58,7 @@ GNU General Public License for more details.
  You should have received a copy of the GNU General Public License
  along with ACBiMA.  If not, see <http://www.gnu.org/licenses/>.
  
-### Release Log
+### Change Log
  
 Date | Updates
 ------------- | -------------
