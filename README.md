@@ -29,7 +29,7 @@ Ting-Hao K. Huang, Yun-Nung Chen, Lingpeng Kong. (2015). ACBiMA: Advanced Chines
 #### Whole Set (~11k words, including the Initial Set)
 
 ```
-/ACBiMA/output/acbima-corpus-1.0-whole-set-11351.json
+/ACBiMA/output/acbima-corpus-1.0.json
 ```
 
 ### ACBiMA Tool
