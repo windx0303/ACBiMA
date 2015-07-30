@@ -1,5 +1,10 @@
 ## ACBiMA: Advanced Chinese Bi-Character Word Morphological Analyzer
 
+Data set and tools release of the following paper:
+
+Ting-Hao K. Huang, Yun-Nung Chen, Lingpeng Kong. (2015). ACBiMA: Advanced Chinese Bi-Character Word Morphological Analyzer. The 8th SIGHAN Workshop on Chinese Language Processing (SIGHAN 2015), July 30-31, 2015, Beijing, China. 
+[[PDF]](http://www.cs.cmu.edu/~yvchen/doc/SIGHAN15_ACBiMA.pdf)
+
 ### ACBiMA Corpus 1.0
 
 #### Morphological Types for Compound Word
@@ -29,10 +34,9 @@
 
 ### ACBiMA Tool
 
-### How to cite?
+Coming soon!
 
-Ting-Hao K. Huang, Yun-Nung Chen, Lingpeng Kong. (2015). ACBiMA: Advanced Chinese Bi-Character Word Morphological Analyzer. The 8th SIGHAN Workshop on Chinese Language Processing (SIGHAN 2015), July 30-31, 2015, Beijing, China. 
-[[PDF]](http://www.cs.cmu.edu/~yvchen/doc/SIGHAN15_ACBiMA.pdf)
+### How to cite?
 
 ```
 @CONFERENCE {acbima2015,
@@ -63,5 +67,4 @@ GNU General Public License for more details.
 Date | Updates
 ------------- | -------------
 2015/07/29  | ACBiMA Presented at SIGHAN 2015
- 
  
