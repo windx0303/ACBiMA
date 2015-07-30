@@ -44,3 +44,11 @@ GNU General Public License for more details.
 
  You should have received a copy of the GNU General Public License
  along with ACBiMA.  If not, see <http://www.gnu.org/licenses/>.
+ 
+ ### Release Log
+ 
+Date | Updates
+------------- | -------------
+2015/07/29  | ACBiMA Presented at SIGHAN 2015
+ 
+ 
