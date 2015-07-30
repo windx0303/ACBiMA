@@ -70,4 +70,7 @@ GNU General Public License for more details.
 Date | Updates
 ------------- | -------------
 2015/07/29  | ACBiMA Presented at SIGHAN 2015
- 
+
+### Contact
+
+For any questions and comments, please send email to [windx0303@gamil.com](windx0303@gamil.com).
