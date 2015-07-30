@@ -37,7 +37,7 @@ Ting-Hao K. Huang, Yun-Nung Chen, Lingpeng Kong. (2015). ACBiMA: Advanced Chines
 Coming soon!
 
 For practical uses, we are porting our code from [Weka](http://www.cs.waikato.ac.nz/ml/weka/) to [Java LibLinear](http://liblinear.bwaldvogel.de/).
-The expected release date will be *August 2015*.
+The expected release date will be **August 2015**.
 
 ### How to cite?
 
