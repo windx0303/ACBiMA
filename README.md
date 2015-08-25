@@ -74,3 +74,8 @@ Date | Updates
 ### Contact
 
 For any questions and comments, please send email to [windx0303@gamil.com](windx0303@gamil.com) to Kenneth Huang.
+
+### Acknowledgement
+
+We thank [Dr. Lun-Wei Ku](http://www.iis.sinica.edu.tw/pages/lwku/) and [Prof. Hsin-Hsi Chen](http://nlg.csie.ntu.edu.tw/advisor.php) for their help.
+ 
